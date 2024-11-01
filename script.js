@@ -15,3 +15,11 @@ fetch('https://jsonplaceholder.typicode.com/posts/1')
 .then((respuesta) => respuesta.json())
 .then((json) => console.log(json))
 
+
+const animals = ["cat","dog","cow","pig"]
+
+function arr(){
+    for(i=0; i<arr.length ;i++){
+     
+    }
+}
