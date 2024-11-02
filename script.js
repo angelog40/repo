@@ -16,12 +16,17 @@
 // .then((json) => console.log(json))
 
 
-const animals = ["Cat","Dog","Cow","Pig"]
+// const animals = ["Cat", "Dog", "Cow", "Pig"]
 
-function arr(arr1){
-    for(i=0; i<arr1.length ;i++){
-     console.log(arr1[i])
-    }
-}
+// function arr(array) {
 
-arr(animals)
+//     for (i = 0; i < array.length; i++) {
+//         console.log(array[i])
+//     }
+// }
+
+// const botonValue = document.getElementById("boton1")
+// botonValue.addEventListener("click", () => arr(animals))
+
+
+
